@@ -1,0 +1,9 @@
+{
+    "VisitEvenUnevenTime": {
+        "EvenHour": "Times",
+        "EvenUneventimes": "Even/Uneven times",
+        "EvenUneventimesDocumentation" : "Report with visit count grouped by even and uneven hours",
+        "EvenHourLabel" : "Even",
+        "UnevenHourLabel" : "Uneven"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "name": "VisitEvenUnevenTime",
+    "description": "Plugin for PIWIK to create new report that will display visit count grouped by even and odd hours",
+    "version": "0.1.0",
+    "theme": false,
+    "require": {
+        "piwik": ">=3.0.2-b3,<4.0.0"
+    },
+    "authors": [
+        {
+            "name": "Adam Zarecki",
+            "email": "aazarecki@gmail.com",
+            "homepage": ""
+        }
+    ],
+    "support": {
+        "email": "",
+        "issues": "",
+        "forum": "",
+        "irc": "",
+        "wiki": "",
+        "source": "",
+        "docs": "",
+        "rss": ""
+    },
+    "homepage": "",
+    "license": "GPL v3+",
+    "keywords": []
+}
